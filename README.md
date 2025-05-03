@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is José C. Júnior</h2>
+<h2 align="center">Hi 👋! My name is José C. Júnior</h2>
 
 ###
 
@@ -31,18 +31,18 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/lyojunior7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=DD0065&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/jos%C3%A9cjr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/lyojunior7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%E3%85%A4%20%E3%85%A4X%20%E3%85%A4%E3%85%A4&logo=twitter&label=&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
   <a href="mailto:lyojunior7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
 </div>
 

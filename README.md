@@ -47,3 +47,5 @@
 </div>
 
 ###
+
+![snake gif](https://github.com/josecjunior7/josecjunior7/blob/output/github-contribution-grid-snake.svg)

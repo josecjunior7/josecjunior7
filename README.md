@@ -38,7 +38,3 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
 </div>
-
-###
-
-![snake gif](https://github.com/josecjunior7/josecjunior7/blob/output/github-contribution-grid-snake-dark.svg)

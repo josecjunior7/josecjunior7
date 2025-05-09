@@ -16,7 +16,7 @@
   <a href="https://discord.com/channels/@me/1351177834634281021" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="74" height="50" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9cjr/" target="_blank">
+  <a href="https://www.linkedin.com/in/jos%C3%A9cjr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="74" height="50" alt="linkedin logo"  />
   </a>
 </div>
@@ -38,3 +38,5 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
 </div>
+
+###
